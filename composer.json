@@ -2,6 +2,8 @@
     "name": "xolvio/codestyle",
     "description": "Standard codestyle rules for Xolvio",
     "type": "library",
+    "keywords": ["xolvio" ,"codestyle"],
+    "license" : "MIT",
     "authors": [
         {
             "name": "Anwar el Bouhdifi",
