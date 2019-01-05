@@ -18,7 +18,7 @@ $finder = PhpCsFixer\Finder::create()
     ->notName('AcceptanceTester.php')
     ->notName('FunctionalTester.php')
     ->notName('UnitTester.php')
-    ->in(__DIR__);
+    ->in(__DIR__ . '/../../../');
 
 return PhpCsFixer\Config::create()
     ->setRules([
