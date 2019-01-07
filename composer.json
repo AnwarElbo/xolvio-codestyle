@@ -10,7 +10,7 @@
             "email": "anwar.elbouhdifi@gmail.com"
         }
     ],
-    "require-dev": {
+    "require": {
         "friendsofphp/php-cs-fixer": "^2.14"
     }
 }
